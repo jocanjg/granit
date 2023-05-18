@@ -46,7 +46,7 @@
 
 				<div class="line line-sm"></div>
 
-				<form id="login-form" name="login-form" class="row mb-0" action="#" method="post">
+				<form id="login-form" name="login-form" class="row mb-0" action="https://formspree.io/f/xpzennva" method="post">
 					<div class="col-12 form-group">
 						<label for="login-form-username" class="fw-normal">Ime i prezime:</label>
 						<input type="text" id="login-form-username" name="login-form-username" value="" class="form-control" />
@@ -58,7 +58,7 @@
 					</div>
 
 					<div class="col-12 form-group mb-0">
-						<button class="button button-rounded fw-normal m-0" id="login-form-submit" name="login-form-submit" value="login">Pošalji</button>
+						<button type="submit" class="button button-rounded fw-normal m-0" id="login-form-submit" name="login-form-submit" value="send">Pošalji</button>
 						
 					</div>
 				</form>
@@ -144,10 +144,10 @@
 							</div>
 							<div class="subscribe-widget" data-loader="button">
 								<div class="widget-subscribe-form-result"></div>
-								<form id="widget-subscribe-form" action="include/subscribe.php" method="post" class="mb-0" data-animate="fadeInUp">
+								<form id="widget-subscribe-form" action="https://formspree.io/f/xpzennva" method="POST" class="mb-0" data-animate="fadeInUp">
 									<div class="input-group mx-auto">
 										<input type="email" id="widget-subscribe-form-email" name="widget-subscribe-form-email" class="form-control form-control-lg not-dark required email" placeholder="Pitanje i kontakt telefon" style="border: 0; box-shadow: none; overflow: hidden;">
-										<button href="#" class="button fw-normal" type="submit" style="border-radius: 3px;">POŠALJI UPIT</button>
+										<button class="button fw-normal" type="submit" style="border-radius: 3px;" value="send">POŠALJI UPIT</button>
 									</div>
 								</form>
 							</div>
