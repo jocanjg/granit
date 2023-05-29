@@ -123,7 +123,7 @@ body.side-panel-open #side-panel {
 .customers-count .counter {
 	font-family: 'Playfair Display', serif;
 	font-weight: 700;
-	color: #1d2c4c;
+	color: #181514;
 	font-size: 64px;
 	line-height: 1.2;
 }
@@ -197,7 +197,7 @@ body.side-panel-open #side-panel {
 	line-height: 1.4;
 	font-weight: 700;
 	letter-spacing: 0;
-	color: #1d2c4c;
+	color: #181514;
 }
 
 .story-box .story-box-info .story-box-content p {
@@ -279,7 +279,7 @@ ul.tab-nav:not(.tab-nav-lg) li {
 .tabs.tabs-alt ul.tab-nav li.ui-tabs-active a { border: none; }
 
 ul.tab-nav:not(.tab-nav-lg) li a {
-	color: #1d2c4c;
+	color: #181514;
 	height: auto;
 	line-height: 1;
 	background-color: transparent;
@@ -292,7 +292,7 @@ ul.tab-nav:not(.tab-nav-lg) li a i {
 	display: block;
 	font-size: 42px;
 	margin: 0 0 17px 0;
-	color: var(--themecolor);
+	color: #181514;
 }
 
 ul.tab-nav:not(.tab-nav-lg) li.ui-tabs-active a { top: 0; }
@@ -341,7 +341,7 @@ ul.tab-nav:not(.tab-nav-lg) li.ui-tabs-active a::after {
 .review-row h6 {
 	font-size: 18px;
 	font-weight: 400;
-	color: #1d2c4c;
+	color: #181514;
 	margin-bottom: 0;
 }
 
@@ -355,7 +355,7 @@ ul.tab-nav:not(.tab-nav-lg) li.ui-tabs-active a::after {
 	display: block;
 	font-size: 17px;
 	font-weight: 500;
-	color: #1d2c4c;
+	color: #181514;
 }
 
 .review-id {
@@ -397,7 +397,7 @@ ul.tab-nav:not(.tab-nav-lg) li.ui-tabs-active a::after {
 .review-title h3 {
 	font-family: 'PlayFair Display';
 	font-size: 28px;
-	color: #1d2c4c;
+	color: #181514;
 	margin-bottom: 20px;
 }
 
